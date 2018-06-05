@@ -26,7 +26,7 @@ function makeInt(n) {
   var total = parseInt(n, 10)
   return total
 }
-function preserveDeciaml(n) {
+function preserveDecimal(n) {
   var total = parseFloat(n, 10)
   return total
 }
