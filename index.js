@@ -15,5 +15,6 @@ function divide(a, b) {
   return total
 }
 function inc(n) {
-  return n +=
+  var total = n +=
+  return total
 }
