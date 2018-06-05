@@ -18,3 +18,7 @@ function inc(n) {
   var total = n += 1
   return total
 }
+function dec(n) {
+  var total = n -= 1
+  return total
+}
