@@ -22,3 +22,7 @@ function dec(n) {
   var total = n -= 1
   return total
 }
+function makeInt(n) {
+  var total = parseInt(n)
+  return total
+}
