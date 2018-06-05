@@ -23,6 +23,6 @@ function dec(n) {
   return total
 }
 function makeInt(n) {
-  var total = parseInt(n)
+  var total = parseInt(n, 10)
   return total
 }
